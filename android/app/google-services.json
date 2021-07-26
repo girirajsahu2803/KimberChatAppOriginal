@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206637853164",
+    "project_id": "kimber-app",
+    "storage_bucket": "kimber-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206637853164:android:6943af082559783a9878c9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_kimber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206637853164-2q7m1ecvppec059dgd0p89s96ethreii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkzhrMKBtArdp_g-cODK9KR-r8JvO1b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206637853164-2q7m1ecvppec059dgd0p89s96ethreii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
